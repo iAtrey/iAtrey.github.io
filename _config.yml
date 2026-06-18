@@ -13,9 +13,9 @@ title                    : "Atrey Iyer"
 title_separator          : "-"
 name                     : &name "Atrey Iyer"
 description              : &description "Atrey Iyer — engineer, high school senior, diver, and builder."
-url                      : https://atreyiyer.github.io # Update to "https://[your GitHub username].github.io" once you create the repo
+url                      : https://iAtrey.github.io # Update to "https://[your GitHub username].github.io" once you create the repo
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "atreyiyer/atreyiyer.github.io"
+repository               : "iAtrey/iAtrey.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
