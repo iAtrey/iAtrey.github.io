@@ -13,7 +13,7 @@ Right now I'm a Mechanical Engineering Research Intern at **Northwestern Univers
 
 Outside of internships, I captain my school's **Varsity Math Modeling Team** — we won the national Modeling the Future Challenge and were semifinalists in the MathWorks M3 Challenge — and I lead development in my school's **Computer Science Club**. I dive for the varsity team as co-captain, and I tutor advanced math at **Mathnasium**.
 
-Have a look around: my [projects](/portfolio/), [publications](/publications/), [tutoring](/teaching/), and full [CV](/cv/) are in the menu above.
+Have a look around: my [projects](/portfolio/), [publications](/publications/) and [tutoring](/teaching/) are in the menu above.
 
 ## Highlights
 
