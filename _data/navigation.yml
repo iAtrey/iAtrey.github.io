@@ -1,0 +1,13 @@
+# The order of the links in the header of the website.
+main:
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Tutoring"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
